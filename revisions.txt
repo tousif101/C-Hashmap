@@ -1,0 +1,36 @@
+commit d2adda8dfe1ef28cd6278a0371fca37112f58912
+Author: Tousif Ahmed Chowdhury <tac5780@cs.rit.edu>
+Date:   Thu Oct 29 22:40:16 2015 -0400
+
+    I finished up sim but my remove friends dont work yet.
+
+commit dfb450e6f9013a45cfe412cb5cdef611f9e97716
+Author: Tousif Ahmed Chowdhury <tac5780@cs.rit.edu>
+Date:   Thu Oct 29 15:42:42 2015 -0400
+
+    addUser works fine, everything else fails. Amigosim works
+
+commit 0e101313d1af725b624c8e0abd18bdbcb159b861
+Author: Tousif Ahmed Chowdhury <tac5780@cs.rit.edu>
+Date:   Thu Oct 29 02:38:58 2015 -0400
+
+    Finished up amigonet, just need the delete to clear
+    up amigo space. Need to finish up amigosim.
+
+commit eea0adc48211a3c8ab5f987363475923f0bcfc5c
+Author: Tousif Ahmed Chowdhury <tac5780@cs.rit.edu>
+Date:   Thu Oct 29 02:24:30 2015 -0400
+
+    I added all the asserts and added my own personal comments. Should be the final commit.
+
+commit 73124d80d1135ee2d942e321c3df33dc450b6a04
+Author: Tousif Ahmed Chowdhury <tac5780@cs.rit.edu>
+Date:   Wed Oct 28 20:29:15 2015 -0400
+
+    The table works nicely.
+
+commit 85008c1a5cfea0a4c40369dffcfd883de46eba1a
+Author: Tousif Ahmed Chowdhury <tac5780@cs.rit.edu>
+Date:   Sun Oct 25 22:03:51 2015 -0400
+
+    Finished up table.c. Collisions still dont measure the right amount

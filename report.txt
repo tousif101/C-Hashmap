@@ -1,0 +1,40 @@
+AmigoNet 2.0 Feedback
+
+name: Tousif Chowdhury 
+login ID:tac5780
+
+
+What did you learn?
+I learned how to use dynamic memory and pointers. I learned how to make a hashtable using 
+C and dynamic memory. I know that lots of companies want you to implement hashtables as 
+interview questions so I am glad I did this project. 
+
+
+
+How many hours did you work on this project?
+I spent about 50 hour.
+
+How many hours did you originally estimate you would need for this project?
+I thought I would need at least 25 hours. 
+
+
+
+What was easy about this assignment?
+There was nothing really easy about this project. It was challenging from the start. 
+
+
+What gave you problems/troubles?
+The sim part of part 2 gave me problems. I could not remove users. 
+
+
+
+What can the instructor do to improve this assignment?
+Maybe we could have had a lecture on hashing 
+
+
+
+What would you have liked to do in this assignment?
+I would have liked to implement more hashing algorthims. Like other rehashing methods or other
+methods besides open addressing. 
+
+
